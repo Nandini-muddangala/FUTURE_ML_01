@@ -1,26 +1,11 @@
-Graphs
-1. Historical vs Predicted Sales
+Sales Forecast Graph
 
-Shows how well the model predicts past sales.
+This graph shows all sales data in one view.
 
-Blue line: Actual sales from the data
+Blue line: Actual historical sales
+Green line: Model predictions on recent data
+Red dashed line: Forecasted sales for the next 6 months
 
-Green line: Predicted sales by the model
+Helps businesses see past trends, check model accuracy, and plan for future months.
 
-Helps to see if the model is accurate and follows trends.
-
-
-
-
-
-
-
-2. Future Forecast (Next 6 Months)
-
-Shows what sales might look like in the coming months.
-
-Blue line: Past sales
-
-Red dashed line: Predicted future sales
-
-Useful for planning stock, staff, and business decisions.
+<img width="1491" height="832" alt="Sales_forecast_graph" src="https://github.com/user-attachments/assets/2f564718-3878-41d7-b6bb-7039501247db" />
