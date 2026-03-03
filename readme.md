@@ -52,9 +52,10 @@ Instead of guessing, the business can make data-driven decisions.
 ---
 
 ## How to Run
-1. Open the `Sales_Forecasting.ipynb` notebook or the `sales_forecasting.py` script  
+1. Open the `sales_forecasting.py` script  
 2. Install required packages:  
 ```bash
 
 pip install -r requirements.txt
 python sales_forecasting.py
+
