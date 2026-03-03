@@ -35,8 +35,8 @@ It contains real sales data like Order Date, Sales amount, Product info, and Reg
 - **Blue Line:** Actual historical sales  
 - **Green Line:** Model predictions on recent data (to see how accurate it is)  
 - **Red Dashed Line:** Future forecast for the next 6 months  
+<img width="1491" height="832" alt="Screenshot 2026-03-03 140018" src="https://github.com/user-attachments/assets/ca4cd349-e986-4130-9d73-a7e0b8cdb53f" />
 
-*(Insert a screenshot of your final graph here)*
 
 ---
 
@@ -55,4 +55,6 @@ Instead of guessing, the business can make data-driven decisions.
 1. Open the `Sales_Forecasting.ipynb` notebook or the `sales_forecasting.py` script  
 2. Install required packages:  
 ```bash
+
 pip install -r requirements.txt
+python sales_forecasting.py
