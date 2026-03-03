@@ -3,7 +3,9 @@ Sales Forecast Graph
 This graph shows all sales data in one view.
 
 Blue line: Actual historical sales
+
 Green line: Model predictions on recent data
+
 Red dashed line: Forecasted sales for the next 6 months
 
 Helps businesses see past trends, check model accuracy, and plan for future months.
